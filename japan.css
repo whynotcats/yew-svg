@@ -1,0 +1,267 @@
+svg {
+    max-height: 1200px;
+}
+
+#Hokkaido {
+    stroke: #ef7979;
+    fill: #ef7979;
+    stroke-miterlimit: 10;
+}
+
+/* Tohoku */
+
+#Aomori {
+    stroke: #efe979;
+    fill: #efe979;
+    stroke-miterlimit: 10;
+}
+#Iwate {
+    stroke: #efe979;
+    fill: #efe979;
+    stroke-miterlimit: 10;
+}
+
+#Miyagi {
+    stroke: #efe979;
+    fill: #efe979;
+    stroke-miterlimit: 10;
+}
+
+#Akita {
+    stroke: #efe979;
+    fill: #efe979;
+    stroke-miterlimit: 10;
+}
+
+#Yamagata {
+    stroke: #efe979;
+    fill: #efe979;
+    stroke-miterlimit: 10;
+}
+
+#Fukushima {
+    stroke: #efe979;
+    fill: #efe979;
+    stroke-miterlimit: 10;
+}
+
+/* Kantō */
+#Ibaraki {
+    stroke: #87ef79;
+    fill: #87ef79;
+    stroke-miterlimit: 10;
+}
+#Tochigi {
+    stroke: #87ef79;
+    fill: #87ef79;
+    stroke-miterlimit: 10;
+}
+#Gunma {
+    stroke: #87ef79;
+    fill: #87ef79;
+    stroke-miterlimit: 10;
+}
+#Saitama {
+    stroke: #87ef79;
+    fill: #87ef79;
+    stroke-miterlimit: 10;
+}
+#Chiba {
+    stroke: #87ef79;
+    fill: #87ef79;
+    stroke-miterlimit: 10;
+}
+#Tokyo {
+    stroke: #87ef79;
+    fill: #87ef79;
+    stroke-miterlimit: 10;
+}
+#Kanagawa {
+    stroke: #87ef79;
+    fill: #87ef79;
+    stroke-miterlimit: 10;
+}
+/* Chūbu */
+#Niigata {
+    stroke: #79efdb;
+    fill: #79efdb;
+    stroke-miterlimit: 10;
+}
+#Toyama {
+    stroke: #79efdb;
+    fill: #79efdb;
+    stroke-miterlimit: 10;
+}
+#Ishikawa {
+    stroke: #79efdb;
+    fill: #79efdb;
+    stroke-miterlimit: 10;
+}
+#Fukui {
+    stroke: #79efdb;
+    fill: #79efdb;
+    stroke-miterlimit: 10;
+}
+#Yamanashi {
+    stroke: #79efdb;
+    fill: #79efdb;
+    stroke-miterlimit: 10;
+}
+#Nagano {
+    stroke: #79efdb;
+    fill: #79efdb;
+    stroke-miterlimit: 10;
+}
+#Gifu {
+    stroke: #79efdb;
+    fill: #79efdb;
+    stroke-miterlimit: 10;
+}
+#Shizuoka {
+    stroke: #79efdb;
+    fill: #79efdb;
+    stroke-miterlimit: 10;
+}
+#Aichi {
+    stroke: #79efdb;
+    fill: #79efdb;
+    stroke-miterlimit: 10;
+}
+/* Kansai */
+#Mie {
+    stroke: #9579ef;
+    fill: #9579ef;
+    stroke-miterlimit: 10;
+}
+#Shiga {
+    stroke: #9579ef;
+    fill: #9579ef;
+    stroke-miterlimit: 10;
+}
+#Kyoto {
+    stroke: #9579ef;
+    fill: #9579ef;
+    stroke-miterlimit: 10;
+}
+#Osaka {
+    stroke: #9579ef;
+    fill: #9579ef;
+    stroke-miterlimit: 10;
+}
+#Hyogo {
+    stroke: #9579ef;
+    fill: #9579ef;
+    stroke-miterlimit: 10;
+}
+#Nara {
+    stroke: #9579ef;
+    fill: #9579ef;
+    stroke-miterlimit: 10;
+}
+#Wakayama {
+    stroke: #9579ef;
+    fill: #9579ef;
+    stroke-miterlimit: 10;
+}
+/* Chūgoku */
+#Tottori {
+    stroke: #efb179;
+    fill: #efb179;
+    stroke-miterlimit: 10;
+}
+#Shimane {
+    stroke: #efb179;
+    fill: #efb179;
+    stroke-miterlimit: 10;
+}
+#Okayama {
+    stroke: #efb179;
+    fill: #efb179;
+    stroke-miterlimit: 10;
+}
+#Hiroshima {
+    stroke: #efb179;
+    fill: #efb179;
+    stroke-miterlimit: 10;
+}
+#Yamaguchi {
+    stroke: #efb179;
+    fill: #efb179;
+    stroke-miterlimit: 10;
+}
+/* Shikoku */
+#Tokushima {
+    stroke: #cc79ef;
+    fill: #cc79ef;
+    stroke-miterlimit: 10;
+}
+#Kagawa {
+    stroke: #cc79ef;
+    fill: #cc79ef;
+    stroke-miterlimit: 10;
+}
+#Ehime {
+    stroke: #cc79ef;
+    fill: #cc79ef;
+    stroke-miterlimit: 10;
+}
+#Kochi {
+    stroke: #cc79ef;
+    fill: #cc79ef;
+    stroke-miterlimit: 10;
+}
+/* Kyūshū */
+#Fukuoka {
+    stroke: #b4b4b4;
+    fill: #b4b4b4;
+    stroke-miterlimit: 10;
+}
+#Saga {
+    stroke: #b4b4b4;
+    fill: #b4b4b4;
+    stroke-miterlimit: 10;
+}
+#Nagasaki {
+    stroke: #b4b4b4;
+    fill: #b4b4b4;
+    stroke-miterlimit: 10;
+}
+#Kumamoto {
+    stroke: #b4b4b4;
+    fill: #b4b4b4;
+    stroke-miterlimit: 10;
+}
+#Oita {
+    stroke: #b4b4b4;
+    fill: #b4b4b4;
+    stroke-miterlimit: 10;
+}
+#Miyazaki {
+    stroke: #b4b4b4;
+    fill: #b4b4b4;
+    stroke-miterlimit: 10;
+}
+#Kagoshima {
+    stroke: #b4b4b4;
+    fill: #b4b4b4;
+    stroke-miterlimit: 10;
+}
+#Okinawa {
+    stroke: #b4b4b4;
+    fill: #b4b4b4;
+    stroke-miterlimit: 10;
+}
+
+#Split {
+    stroke: rgb(90, 90, 90);
+    fill: none;
+    stroke-miterlimit: 10;
+}
+
+#JapanMapPaths>g:hover {
+    opacity: 0.3;
+}
+
+#Prefectures>image:hover {
+    opacity: 0.3;
+}
