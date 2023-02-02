@@ -1,6 +1,6 @@
 pub mod japan;
 
-use japan::{JapanImages, JapanPaths};
+use japan::{JapanImages, JapanPaths, JapanSourceImage};
 use yew::prelude::*;
 use yew_router::prelude::*;
 
@@ -64,7 +64,9 @@ fn home() -> Html {
         <li><Link<Route> to={Route::PathSVG}>{"SVG with <path> tags"}</Link<Route>></li>
         </ul>
         <h3>{"Experiment"}</h3>
-        <p>{""}</p>
+        <p>{"Display an interactable map of Japanese prefectures with SVG. Build/dev process uses Adobe Photoshop/Illustrator, this page shows the results of using <image> tags in an SVG vs <path> tags. For the particular assets and process I used getting a result with <image> tags was faster but less flexible and didn't provide accurate mouseover boxes with complex shapes."}</p>
+        <h4>{"Source image used as a starting point for the experiment"}</h4>
+        <JapanSourceImage/>
         </>
     }
 }
